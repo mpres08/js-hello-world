@@ -4,8 +4,8 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log"Hello, World!";
-console.log("code doesn't work withouth parentheses");
+console.log(Hello, World!);
+console.log("code must have set of double quotes to work");
 
 /*  
 Next, PLAY! 
